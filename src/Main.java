@@ -1,4 +1,5 @@
 import Ejercicio1.Estudiante;
+import Ejercicio2.Calculadora;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
@@ -20,7 +21,12 @@ public class Main {
 
         estudiante.imprimirAtributos();*/
 
-        //Ejercicio 2
+        /*Ejercicio 2
+
+        Calculadora operacion1 = new Calculadora(10,5,"/");
+        operacion1.imprimirAtributos();*/
+
+        //Ejercicio 3
 
     }
 }
